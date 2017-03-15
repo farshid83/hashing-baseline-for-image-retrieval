@@ -1,3 +1,5 @@
+ https://translate.googleusercontent.com/translate_c?depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=zh-CN&sp=nmt4&tl=en&u=https://github.com/willard-yuan/hashing-baseline-for-image-retrieval&usg=ALkJrhiUgfJ27OtbiKo69orWhH95ryhdCg
+ 
  What is the HABIR Hash Image Retrieval Toolkit?
 
 The HABIR Hash Image Retrieval Toolbox is a benchmark framework that incorporates a classic hash method in Matlab language and an unsupervised hash method in recent years, which includes a mainstream evaluation index for image retrieval that makes use of the toolbox Can focus on the design of the hash method, and other performance evaluations of these aspects can be done by it to help you complete.
